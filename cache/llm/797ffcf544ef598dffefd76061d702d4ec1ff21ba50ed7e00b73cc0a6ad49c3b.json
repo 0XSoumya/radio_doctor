@@ -1,0 +1,25 @@
+{
+  "field_edits": [
+    {
+      "field_name": "KIDNEYS",
+      "updated_text": "Mild right renal cortical atrophy. Moderate right hydronephrosis with dilatation of the right renal pelvis and proximal ureter. Delayed right nephrogram with no contrast excretion from the right kidney or right collecting system on delayed excretory phase images. No right renal or ureteral calculi. The left kidney is normal in size and enhancement with preserved corticomedullary differentiation and normal contrast excretion. No enhancing renal mass identified bilaterally."
+    },
+    {
+      "field_name": "URETERS AND URINARY BLADDER",
+      "updated_text": "Moderate right hydroureteronephrosis extending to the ureterovesical junction. Obstruction of the distal right ureter at the ureterovesical junction secondary to an enhancing bladder mass. No opacification of the right renal collecting system or right ureter on delayed images. The left renal collecting system and ureter opacify normally without filling defects. No ureteral or bladder calculi."
+    },
+    {
+      "field_name": "REPRODUCTIVE",
+      "updated_text": "Mild prostatomegaly. The uterus and ovaries are normal in appearance."
+    },
+    {
+      "field_name": "VASCULATURE",
+      "updated_text": "Moderate atherosclerotic calcifications of the abdominal aorta and iliac arteries without aneurysm. The visualized aorta is normal in caliber."
+    },
+    {
+      "field_name": "BONES",
+      "updated_text": "Mild multilevel thoracolumbar spondylosis. No acute fracture or suspicious osseous abnormality."
+    }
+  ],
+  "impression": "1. Delayed right nephrogram with complete absence of contrast excretion from the right kidney on delayed images, consistent with high-grade obstructive uropathy and severely impaired right renal function.\n2. Enhancing right posterolateral urinary bladder mass measuring approximately 3.5 \u00d7 2.5 cm involving the right ureterovesical junction, highly suspicious for primary urothelial carcinoma.\n3. Moderate right hydroureteronephrosis secondary to distal right ureteral obstruction by the bladder mass.\n4. Mild right renal cortical atrophy, suggesting chronic obstructive change.\n5. Mild prostatomegaly.\n6. Moderate atherosclerotic calcifications of the abdominal aorta and iliac arteries.\n7. Mild multilevel thoracolumbar spondylosis."
+}

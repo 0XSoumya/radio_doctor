@@ -1,0 +1,13 @@
+{
+  "field_edits": [
+    {
+      "field_name": "BONES",
+      "updated_text": "There are osteophytes. No acute fracture or focal osseous lesion."
+    },
+    {
+      "field_name": "JOINTS",
+      "updated_text": "There is reduced medial joint space, consistent with osteoarthritis. The remaining joint spaces are preserved. No dislocation."
+    }
+  ],
+  "impression": "1. Osteoarthritis of the right knee with medial compartment joint space narrowing and osteophytes.\n2. No acute osseous abnormality."
+}

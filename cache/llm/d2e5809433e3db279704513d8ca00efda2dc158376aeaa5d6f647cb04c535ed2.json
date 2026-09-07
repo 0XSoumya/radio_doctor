@@ -1,0 +1,13 @@
+{
+  "field_edits": [
+    {
+      "field_name": "BONES",
+      "updated_text": "There is near-complete resolution of previously noted marrow edema/bone contusions involving the acetabular walls, femoral head, femoral neck, and greater trochanter. No acute fracture, avascular necrosis, or aggressive osseous lesion. Normal marrow signal is demonstrated."
+    },
+    {
+      "field_name": "FLUID",
+      "updated_text": "There is a minimal residual hip joint effusion, markedly decreased compared to prior study. No trochanteric bursitis."
+    }
+  ],
+  "impression": "1. Near-complete resolution of prior marrow edema/bone contusions of the acetabulum, femoral head, femoral neck, and greater trochanter.\n2. Minimal residual hip joint effusion, significantly decreased from prior examination.\n3. No acute fracture, avascular necrosis, subchondral collapse, or new osseous abnormality."
+}

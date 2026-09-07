@@ -1,0 +1,13 @@
+{
+  "field_edits": [
+    {
+      "field_name": "BONES",
+      "updated_text": "There are osteophytes. No acute fracture or focal osseous lesion."
+    },
+    {
+      "field_name": "JOINTS",
+      "updated_text": "There is reduced medial joint space, consistent with moderate osteoarthritis. No dislocation. The remaining joint spaces are preserved."
+    }
+  ],
+  "impression": "1. Moderate osteoarthritis of the left knee with reduced medial joint space and osteophytes.\n2. No acute fracture or dislocation."
+}

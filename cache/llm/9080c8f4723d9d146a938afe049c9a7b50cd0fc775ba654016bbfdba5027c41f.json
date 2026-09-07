@@ -1,0 +1,13 @@
+{
+  "field_edits": [
+    {
+      "field_name": "BONES",
+      "updated_text": "No acute fracture, avascular necrosis, or aggressive osseous lesion. Normal marrow signal is demonstrated. Prior marrow edema/bone contusions involving the acetabular walls, femoral head, femoral neck, and greater trochanter have near\u2011complete resolution with no residual STIR hyperintensity."
+    },
+    {
+      "field_name": "FLUID",
+      "updated_text": "There is a minimal residual hip joint effusion, markedly decreased compared to the prior study. No trochanteric bursitis."
+    }
+  ],
+  "impression": "1. Minimal residual hip joint effusion.\n2. Near\u2011complete resolution of prior marrow edema/bone contusions of the acetabulum, femoral head, femoral neck, and greater trochanter with no residual STIR hyperintensity.\nNo acute fracture or dislocation."
+}

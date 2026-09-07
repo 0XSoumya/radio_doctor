@@ -1,0 +1,17 @@
+{
+  "field_edits": [
+    {
+      "field_name": "BRAIN",
+      "updated_text": "Benign dural calcification along the right frontal convexity is again noted, without associated enhancing soft tissue component. No restricted diffusion to indicate acute infarction. No intracranial hemorrhage, extra-axial fluid collection, or mass effect. No midline shift. Brain parenchymal signal intensity is within normal limits. No focal abnormal T2/FLAIR hyperintense lesion is identified. No abnormal intracranial enhancement is seen following contrast administration. The major intracranial arterial flow voids are preserved. The pituitary gland, corpus callosum, brainstem, and cerebellum are unremarkable."
+    },
+    {
+      "field_name": "VENTRICLES",
+      "updated_text": "The ventricles are normal in size and configuration. Ventricles and cortical sulci are within normal limits for age."
+    },
+    {
+      "field_name": "SINUSES AND MASTOIDS",
+      "updated_text": "Mild mucosal thickening is present within the ethmoid air cells. The remaining visualized paranasal sinuses and mastoid air cells are clear."
+    }
+  ],
+  "impression": "1. No acute intracranial abnormality.\n2. Stable benign dural calcification along the right frontal convexity.\n3. Mild ethmoid sinus mucosal thickening."
+}

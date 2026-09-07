@@ -1,0 +1,13 @@
+{
+  "field_edits": [
+    {
+      "field_name": "Osseous Structures",
+      "updated_text": "Marrow edema involving the anterolateral aspect of the lateral femoral condyle consistent with a bone contusion. No acute fracture, dislocation, or marrow-replacing lesion."
+    },
+    {
+      "field_name": "Soft Tissues",
+      "updated_text": "Mild peritendinous/peribursal fluid between the lateral femoral condyle and the adjacent iliotibial band, likely representing iliotibial band friction syndrome. No mass or fluid collection."
+    }
+  ],
+  "impression": "1. Bone contusion of the anterolateral aspect of the lateral femoral condyle.\n2. Mild peritendinous/peribursal fluid adjacent to the iliotibial band consistent with iliotibial band friction syndrome."
+}

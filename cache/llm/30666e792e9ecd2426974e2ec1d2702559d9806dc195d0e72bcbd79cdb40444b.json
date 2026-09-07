@@ -1,0 +1,17 @@
+{
+  "field_edits": [
+    {
+      "field_name": "BONES",
+      "updated_text": "No acute fracture or focal osseous lesion. Bilateral plantar calcaneal enthesophytes are present."
+    },
+    {
+      "field_name": "JOINTS",
+      "updated_text": "Mild bilateral first metatarsophalangeal degenerative changes with joint space narrowing and marginal osteophyte formation. Mild scattered interphalangeal degenerative changes are present. No dislocation."
+    },
+    {
+      "field_name": "SOFT TISSUES",
+      "updated_text": "The soft tissues are unremarkable. Vascular calcifications are noted."
+    }
+  ],
+  "impression": "1. Mild bilateral first metatarsophalangeal degenerative changes with joint space narrowing and marginal osteophyte formation.\n2. Mild scattered interphalangeal degenerative changes bilaterally.\n3. Bilateral plantar calcaneal enthesophytes.\n4. Vascular calcifications.\n5. No acute fracture or dislocation."
+}

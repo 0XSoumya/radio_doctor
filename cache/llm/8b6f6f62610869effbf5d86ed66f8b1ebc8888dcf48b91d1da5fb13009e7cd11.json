@@ -1,0 +1,17 @@
+{
+  "field_edits": [
+    {
+      "field_name": "BONES",
+      "updated_text": "Acute nondisplaced fracture of the left lateral rib (approximately the seventh/eighth rib) is identified. No acute fracture or focal osseous lesion of the left shoulder."
+    },
+    {
+      "field_name": "JOINTS",
+      "updated_text": "Mild acromioclavicular osteoarthritis. No dislocation. Glenohumeral alignment is maintained. The joint spaces are normal."
+    },
+    {
+      "field_name": "SOFT TISSUES",
+      "updated_text": "Mild left basilar linear atelectatic/scarring. Aortic atherosclerotic calcification is present."
+    }
+  ],
+  "impression": "1. Acute nondisplaced fracture of the left lateral rib (approximately the seventh/eighth rib).\n2. Mild acromioclavicular osteoarthritis.\n3. Mild degenerative enthesopathic change of the greater tuberosity.\n4. Mild left basilar linear atelectatic/scarring.\n5. Aortic atherosclerotic calcification.\n6. No acute fracture or dislocation of the left shoulder."
+}

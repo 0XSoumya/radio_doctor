@@ -1,0 +1,21 @@
+{
+  "field_edits": [
+    {
+      "field_name": "LUNGS",
+      "updated_text": "Stable semisolid nodule in the right upper lobe. No new or enlarging pulmonary nodule or mass. Stable centrilobular and paraseptal emphysematous changes of both lungs with scattered parenchymal fibrosis and scarring. No focal air\u2011space consolidation. The central airways are patent."
+    },
+    {
+      "field_name": "HEART AND MEDIASTINUM",
+      "updated_text": "The heart is grossly normal in size. Stable left dual\u2011lead cardiac pacemaker with leads terminating in the right atrium and right ventricle. No pericardial effusion. Stable mild to moderate coronary artery calcifications. Stable mild to moderate atherosclerotic calcification of the thoracic aorta. No thoracic aortic aneurysm."
+    },
+    {
+      "field_name": "UPPER ABDOMEN",
+      "updated_text": "New moderate to severe hepatic steatosis. Stable few splenic calcifications. The remaining visualized upper abdominal structures are grossly unremarkable."
+    },
+    {
+      "field_name": "BONES AND SOFT TISSUES",
+      "updated_text": "Stable thoracic spondylosis. No acute or destructive osseous abnormality. The soft tissues are within normal limits."
+    }
+  ],
+  "impression": "1. Stable semisolid nodule in the right upper lobe, Lung\u2011RADS 2 \u2013 benign appearance or behavior.\n2. New moderate to severe hepatic steatosis.\n3. Stable mild\u2011moderate coronary artery and thoracic aortic calcifications.\n4. Stable left dual\u2011lead cardiac pacemaker.\n5. Stable centrilobular and paraseptal emphysema with scattered bilateral parenchymal fibrosis/scarring.\n6. Stable few splenic calcifications.\n7. Stable thoracic spondylosis.\nNo pleural effusion or pneumothorax. No acute osseous abnormality.\nRecommendation: Continue annual low\u2011dose CT lung cancer screening in 12 months."
+}

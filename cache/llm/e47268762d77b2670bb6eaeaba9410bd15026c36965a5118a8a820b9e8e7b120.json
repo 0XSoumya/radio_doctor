@@ -1,0 +1,17 @@
+{
+  "field_edits": [
+    {
+      "field_name": "BONES",
+      "updated_text": "No acute fracture or dislocation of the left femur. No focal aggressive osseous lesion or periosteal reaction identified."
+    },
+    {
+      "field_name": "JOINTS",
+      "updated_text": "There is mild-to-moderate degenerative osteoarthrosis of the left hip with superior joint space narrowing, subchondral sclerosis, and marginal osteophyte formation. The femoral head is normally seated within the acetabulum. No dislocation. The remaining joint spaces are preserved."
+    },
+    {
+      "field_name": "SOFT TISSUES",
+      "updated_text": "Extensive vascular calcifications are present within the soft tissues of the left thigh, compatible with atherosclerotic disease. Surgical clips project over the pelvis, consistent with prior pelvic surgery."
+    }
+  ],
+  "impression": "1. No acute fracture or dislocation of the left femur.\n2. Mild-to-moderate left hip osteoarthrosis with superior joint space narrowing, subchondral sclerosis, and marginal osteophytes.\n3. Mild greater trochanteric enthesopathic spurring.\n4. Extensive peripheral vascular calcifications in the left thigh.\n5. Postsurgical clips within the pelvis."
+}

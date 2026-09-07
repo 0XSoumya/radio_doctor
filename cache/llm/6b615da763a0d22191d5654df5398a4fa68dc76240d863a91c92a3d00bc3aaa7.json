@@ -1,0 +1,17 @@
+{
+  "field_edits": [
+    {
+      "field_name": "VERTEBRAE",
+      "updated_text": "Five non-rib-bearing lumbar vertebral bodies are identified. Mild levoconvex curvature of the lumbar spine. Lumbar vertebral body heights are maintained without acute compression deformity. Alignment is maintained without spondylolisthesis. Normal density is preserved. No acute osseous abnormality of the lumbar spine."
+    },
+    {
+      "field_name": "DISC SPACES",
+      "updated_text": "There is mild disc space narrowing at L4-L5 and L5-S1 with small endplate osteophytes. The remaining disc spaces are preserved."
+    },
+    {
+      "field_name": "SOFT TISSUES",
+      "updated_text": "Moderate retained colonic stool burden is noted."
+    }
+  ],
+  "impression": "1. No acute osseous abnormality of the lumbar spine."
+}

@@ -1,0 +1,17 @@
+{
+  "field_edits": [
+    {
+      "field_name": "BONES",
+      "updated_text": "Bone mineralization is within normal limits. No erosive osseous changes or aggressive bone lesion is identified. No acute fracture or focal osseous lesion."
+    },
+    {
+      "field_name": "JOINTS",
+      "updated_text": "Mild degenerative osteoarthrosis is present involving the first carpometacarpal (CMC) joint with mild joint space narrowing and small marginal osteophytes. Minimal scattered degenerative changes are present involving the interphalangeal joints. Alignment is anatomic. No dislocation is identified. The remaining joint spaces are preserved."
+    },
+    {
+      "field_name": "SOFT TISSUES",
+      "updated_text": "Mild soft tissue swelling is present about the hand. No radiopaque foreign body is identified."
+    }
+  ],
+  "impression": "1. Mild degenerative osteoarthrosis of the first carpometacarpal joint with joint space narrowing and marginal osteophytes.\n2. Minimal scattered degenerative changes of the interphalangeal joints.\n3. Mild soft tissue swelling of the hand.\n4. No acute fracture or dislocation."
+}

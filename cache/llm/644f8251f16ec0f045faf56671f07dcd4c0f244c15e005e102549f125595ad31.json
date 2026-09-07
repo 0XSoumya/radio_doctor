@@ -1,0 +1,21 @@
+{
+  "field_edits": [
+    {
+      "field_name": "LUNGS",
+      "updated_text": "Stable semisolid nodule in the right upper lobe. Stable centrilobular and paraseptal emphysematous changes of both lungs. Stable scattered parenchymal fibrosis and scarring in both lungs. No focal airspace consolidation. The central airways are patent."
+    },
+    {
+      "field_name": "HEART AND MEDIASTINUM",
+      "updated_text": "Stable left dual-lead cardiac pacemaker with leads terminating over the right atrium and right ventricle. No significant pericardial effusion. Stable mild to moderate coronary artery calcifications. Stable mild to moderate atherosclerotic calcification of the thoracic aorta. No thoracic aortic aneurysm."
+    },
+    {
+      "field_name": "UPPER ABDOMEN",
+      "updated_text": "New moderate to severe hepatic steatosis. Stable few splenic calcifications. The remaining visualized upper abdominal structures are grossly unremarkable."
+    },
+    {
+      "field_name": "BONES AND SOFT TISSUES",
+      "updated_text": "Stable thoracic spondylosis. No acute or destructive osseous abnormality. The soft tissues are within normal limits."
+    }
+  ],
+  "impression": "1. Stable semisolid right upper lobe pulmonary nodule.\n2. Stable centrilobular and paraseptal emphysema with scattered bilateral parenchymal fibrosis/scarring.\n3. New moderate to severe hepatic steatosis.\n4. Stable mild to moderate coronary artery and thoracic aortic calcifications.\n5. Stable left dual-lead cardiac pacemaker.\n6. Stable few splenic calcifications.\n7. Stable thoracic spondylosis.\n8. Lung-RADS 2 - Benign appearance or behavior.\nRecommendation: Continue annual low-dose CT lung cancer screening in 12 months."
+}

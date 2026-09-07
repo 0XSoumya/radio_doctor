@@ -1,0 +1,13 @@
+{
+  "field_edits": [
+    {
+      "field_name": "BONES",
+      "updated_text": "No acute fracture or focal osseous lesion. Small bony spur anterior to the talus. Small inferior and posterior calcaneal enthesophytes."
+    },
+    {
+      "field_name": "JOINTS",
+      "updated_text": "No dislocation. The joint spaces are normal. Mild hallux valgus deformity with mild degenerative changes of the first metatarsophalangeal joint. Mild joint space narrowing of the distal interphalangeal joints."
+    }
+  ],
+  "impression": "1. Small bony spur anterior to the talus.\n2. Small inferior and posterior calcaneal enthesophytes.\n3. Mild hallux valgus deformity with mild degenerative changes of the first metatarsophalangeal joint.\n4. Mild joint space narrowing of the distal interphalangeal joints.\n5. No acute fracture or dislocation."
+}

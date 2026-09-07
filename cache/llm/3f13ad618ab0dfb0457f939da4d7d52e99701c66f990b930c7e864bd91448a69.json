@@ -1,0 +1,17 @@
+{
+  "field_edits": [
+    {
+      "field_name": "JOINTS",
+      "updated_text": "There is superior joint space narrowing of the left hip with subchondral sclerosis and marginal osteophyte formation consistent with mild-to-moderate degenerative osteoarthrosis. The femoral head is normally seated within the acetabulum. No dislocation is identified."
+    },
+    {
+      "field_name": "SOFT TISSUES",
+      "updated_text": "Extensive vascular calcifications are present within the soft tissues of the left thigh, compatible with atherosclerotic disease."
+    },
+    {
+      "field_name": "OTHER FINDINGS",
+      "updated_text": "Surgical clips project over the pelvis, consistent with prior pelvic surgery."
+    }
+  ],
+  "impression": "1. No acute osseous abnormality of the left femur.\n2. Mild-to-moderate left hip osteoarthrosis.\n3. Mild greater trochanteric enthesopathic change.\n4. Extensive peripheral vascular atherosclerotic calcifications.\n5. Postsurgical clips within the pelvis."
+}

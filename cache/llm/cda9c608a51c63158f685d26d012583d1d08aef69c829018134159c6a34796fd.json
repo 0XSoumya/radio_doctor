@@ -1,0 +1,13 @@
+{
+  "field_edits": [
+    {
+      "field_name": "FLUID",
+      "updated_text": "There is minimal joint effusion."
+    },
+    {
+      "field_name": "OTHER FINDINGS",
+      "updated_text": "Diffuse cellulitis of the ankle and foot region."
+    }
+  ],
+  "impression": "1. Diffuse cellulitis of the ankle and foot region.\n2. Minimal joint effusion.\nNo acute fracture, dislocation, or subluxation."
+}

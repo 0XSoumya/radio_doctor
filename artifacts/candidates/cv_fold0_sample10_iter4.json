@@ -1,0 +1,91 @@
+{
+  "fold": 0,
+  "summary": {
+    "mean_res": 0.33804017172081513,
+    "mean_f": 0.2552083004255889,
+    "mean_i": 0.4918707898405209,
+    "count": 10
+  },
+  "cases": [
+    {
+      "case_id": "e57203c3-3b33-40b0-a310-178f006d2a56",
+      "modality": "XRAY",
+      "body_part": "Femur",
+      "res": 0.5525966845105367,
+      "findings_f": 0.33384611798708713,
+      "impression_i": 0.9588477366255144
+    },
+    {
+      "case_id": "cabed10c-4cb1-4cd1-8322-6e3a39296146",
+      "modality": "XRAY",
+      "body_part": "Shoulder",
+      "res": 0.21160747663551405,
+      "findings_f": 0.24000000000000005,
+      "impression_i": 0.1588785046728972
+    },
+    {
+      "case_id": "3f999518-31b3-4a96-9cca-1ebc3407c96a",
+      "modality": "XRAY",
+      "body_part": "Foot",
+      "res": 0.22467391304347828,
+      "findings_f": 0.3456521739130435,
+      "impression_i": 0.0
+    },
+    {
+      "case_id": "d5ee5d77-177d-41c7-961e-b5333c4de87e",
+      "modality": "MRI",
+      "body_part": "Ankle",
+      "res": 0.1318667747472821,
+      "findings_f": 0.04183673469387755,
+      "impression_i": 0.29906542056074764
+    },
+    {
+      "case_id": "2a39d79f-0bc1-4dd3-89ce-bc693913ea35",
+      "modality": "CT",
+      "body_part": "Chest",
+      "res": 0.3413463530095767,
+      "findings_f": 0.22609498096147895,
+      "impression_i": 0.5553846153846154
+    },
+    {
+      "case_id": "ae426243-b519-461c-aebf-8c8d1b5c62bd",
+      "modality": "XRAY",
+      "body_part": "Lumbar spine",
+      "res": 0.5839785681714547,
+      "findings_f": 0.40521589673436464,
+      "impression_i": 0.9159663865546218
+    },
+    {
+      "case_id": "50cad94b-91e3-4848-84a2-16de21c96120",
+      "modality": "XRAY",
+      "body_part": "Pelvis",
+      "res": 0.37725337765077294,
+      "findings_f": 0.2028918648774553,
+      "impression_i": 0.701067615658363
+    },
+    {
+      "case_id": "47bcc9cb-7089-4ff8-bc88-c157d58a0edd",
+      "modality": "XRAY",
+      "body_part": "Hand",
+      "res": 0.45532012245848724,
+      "findings_f": 0.326278659611993,
+      "impression_i": 0.6949685534591195
+    },
+    {
+      "case_id": "a875a002-bb0d-4ec8-bef5-dc960524e984",
+      "modality": "XRAY",
+      "body_part": "Foot",
+      "res": 0.26364235685806026,
+      "findings_f": 0.1019711473029987,
+      "impression_i": 0.5638888888888889
+    },
+    {
+      "case_id": "2afc671d-2ab5-4cdb-b620-ae6460782762",
+      "modality": "MRI",
+      "body_part": "Hip",
+      "res": 0.23811609012298812,
+      "findings_f": 0.32829542817359014,
+      "impression_i": 0.0706401766004415
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "field_edits": [
+    {
+      "field_name": "LUNGS",
+      "updated_text": "A stable semisolid nodule is seen in the right upper lobe (series 4, image 165). Stable centrilobular and paraseptal emphysematous changes are present in both lungs. Scattered parenchymal fibrosis and scarring are stable. No focal airspace consolidation. The central airways are patent."
+    },
+    {
+      "field_name": "HEART AND MEDIASTINUM",
+      "updated_text": "A stable left dual\u2011lead cardiac pacemaker is present with leads terminating in the right atrium and right ventricle. The heart is grossly normal in size. Mild to moderate coronary artery calcifications are seen. Mild to moderate atherosclerotic calcification of the thoracic aorta is present without aneurysm. No pericardial effusion."
+    },
+    {
+      "field_name": "UPPER ABDOMEN",
+      "updated_text": "Moderate to severe hepatic steatosis is present. Few splenic calcifications are seen. The remaining visualized upper abdominal structures are grossly unremarkable."
+    },
+    {
+      "field_name": "BONES AND SOFT TISSUES",
+      "updated_text": "Stable thoracic spondylosis is present. No acute or destructive osseous abnormality. The soft tissues are within normal limits."
+    }
+  ],
+  "impression": "1. Stable semisolid nodule in the right upper lobe.\n2. Stable centrilobular and paraseptal emphysema with scattered bilateral parenchymal fibrosis/scarring.\n3. Moderate to severe hepatic steatosis.\n4. Few splenic calcifications.\n5. Mild to moderate coronary artery and thoracic aortic calcifications.\n6. Stable left dual\u2011lead cardiac pacemaker.\n7. Stable thoracic spondylosis.\n8. Lung\u2011RADS Category 2 \u2013 Benign appearance or behavior.\nRecommendation: Continue annual low\u2011dose CT lung cancer screening in 12 months."
+}

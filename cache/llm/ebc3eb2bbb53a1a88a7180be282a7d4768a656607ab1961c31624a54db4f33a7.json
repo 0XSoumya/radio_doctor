@@ -1,0 +1,17 @@
+{
+  "field_edits": [
+    {
+      "field_name": "BONES",
+      "updated_text": "No acute fracture or focal osseous lesion. Advanced degenerative spondylosis of the visualized lower lumbar spine."
+    },
+    {
+      "field_name": "JOINTS",
+      "updated_text": "Mild osteoarthrosis of the right hip with mild superior joint space narrowing and small marginal osteophytes involving the acetabulum and femoral head\u2011neck junction. Femoral head contour is maintained. Mild degenerative changes of the right sacroiliac joint. No dislocation."
+    },
+    {
+      "field_name": "SOFT TISSUES",
+      "updated_text": "Postsurgical clips project over the right inguinal region. The soft tissues are otherwise unremarkable."
+    }
+  ],
+  "impression": "1. Mild osteoarthrosis of the right hip with superior joint space narrowing and small marginal osteophytes of the acetabulum and femoral head\u2011neck junction.\n2. Mild degenerative changes of the right sacroiliac joint.\n3. Advanced degenerative spondylosis of the visualized lower lumbar spine.\n4. No acute fracture or dislocation."
+}

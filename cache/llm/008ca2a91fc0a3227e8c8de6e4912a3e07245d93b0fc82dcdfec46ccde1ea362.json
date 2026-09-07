@@ -1,0 +1,17 @@
+{
+  "field_edits": [
+    {
+      "field_name": "BONES",
+      "updated_text": "Acute mildly displaced fracture involving the distal humerus, centered at the supracondylar/intercondylar region. Fracture extension into the articular surface cannot be excluded. Alignment is maintained. No acute focal osseous lesion elsewhere."
+    },
+    {
+      "field_name": "JOINTS",
+      "updated_text": "Elbow joint effusion is present. No dislocation is seen. The joint spaces are preserved."
+    },
+    {
+      "field_name": "SOFT TISSUES",
+      "updated_text": "Associated soft tissue swelling is present."
+    }
+  ],
+  "impression": "1. Acute mildly displaced distal humeral supracondylar/intercondylar fracture.\n2. Possible intra\u2011articular extension cannot be excluded.\n3. Elbow joint effusion.\n4. Associated soft tissue swelling."
+}
