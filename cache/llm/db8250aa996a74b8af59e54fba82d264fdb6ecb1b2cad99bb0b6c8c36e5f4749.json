@@ -1,0 +1,25 @@
+{
+  "field_edits": [
+    {
+      "field_name": "Osseous Structures",
+      "updated_text": "Mild degenerative subchondral changes. No acute fracture, dislocation, or marrow-replacing lesion."
+    },
+    {
+      "field_name": "Joint",
+      "updated_text": "Small knee joint effusion. Knee joint alignment is maintained."
+    },
+    {
+      "field_name": "Medial meniscus",
+      "updated_text": "Mild intrasubstance degenerative signal without definite surfacing tear. The meniscus is otherwise intact."
+    },
+    {
+      "field_name": "Lateral meniscus",
+      "updated_text": "Anterior horn lateral meniscal tear demonstrated by linear fluid-sensitive signal extending to the articular surface. No displaced fragment or significant extrusion. The remainder of the lateral meniscus is intact."
+    },
+    {
+      "field_name": "Articular Cartilage",
+      "updated_text": "Mild multifocal chondral thinning and surface irregularity involving the medial, lateral, and patellofemoral compartments. No full-thickness cartilage defect identified. Cartilage thickness and signal are otherwise preserved."
+    }
+  ],
+  "impression": "1. Anterior horn lateral meniscal tear.\n2. Mild intrasubstance degenerative signal of the medial meniscus without definite tear.\n3. Mild multifocal chondral thinning and surface irregularity of the medial, lateral, and patellofemoral compartments.\n4. Small knee joint effusion.\n5. Mild degenerative subchondral changes.\n6. No acute osseous abnormality."
+}

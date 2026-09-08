@@ -1,0 +1,17 @@
+{
+  "field_edits": [
+    {
+      "field_name": "BRAIN",
+      "updated_text": "Moderate diffuse cerebral volume loss with prominence of the cortical sulci and ventricular system, consistent with moderate cerebral atrophy. Moderate multifocal T2/FLAIR hyperintense white\u2011matter signal changes (leukoaraiosis), predominantly periventricular and deep, representing chronic small\u2011vessel ischemic gliosis. Chronic gliotic changes involving bilateral thalami consistent with old bilateral thalamic infarcts. No restricted diffusion to indicate acute infarction. No intracranial mass or hemorrhage. No midline shift or extra\u2011axial fluid collection. No cerebellar tonsillar ectopia. The central arterial and venous flow voids are patent."
+    },
+    {
+      "field_name": "VENTRICLES",
+      "updated_text": "The ventricles are enlarged consistent with moderate cerebral atrophy. The ventricular configuration otherwise is unremarkable."
+    },
+    {
+      "field_name": "OTHER FINDINGS",
+      "updated_text": "Multilevel cervical spondylotic/degenerative changes with disc bulges at C2\u2011C3 and C3\u2011C4, causing mild ventral thecal sac indentation."
+    }
+  ],
+  "impression": "1. Moderate cerebral atrophy with diffuse volume loss and ventricular enlargement.\n2. Moderate periventricular and deep white\u2011matter leukoaraiosis representing chronic small\u2011vessel ischemic changes.\n3. Chronic bilateral thalamic lacunar infarcts.\n4. Multilevel cervical spondylotic changes with disc bulges at C2\u2011C3 and C3\u2011C4 causing mild ventral thecal sac indentation."
+}

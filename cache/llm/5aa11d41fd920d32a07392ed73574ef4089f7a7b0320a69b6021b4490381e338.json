@@ -1,0 +1,21 @@
+{
+  "field_edits": [
+    {
+      "field_name": "LUNGS/AIRWAYS",
+      "updated_text": "Moderate ground-glass opacities are present in the bilateral lower lobes, which may represent gravity\u2011dependent atelectatic changes. An infectious or inflammatory etiology cannot be excluded. No focal pulmonary mass. The central airways are patent. No focal consolidation, cavitation, suspicious pulmonary nodule or other focal lesion is identified."
+    },
+    {
+      "field_name": "CARDIOVASCULAR",
+      "updated_text": "A right\u2011sided aortic arch with the descending thoracic aorta coursing near the midline is present. Mild cardiomegaly is noted. Mild coronary artery calcifications are present. No pericardial effusion."
+    },
+    {
+      "field_name": "CHEST WALL/MUSCULOSKELETAL",
+      "updated_text": "Thoracic spondylosis is present. No acute or destructive osseous abnormality. No aggressive osseous lesion."
+    },
+    {
+      "field_name": "OTHER FINDINGS",
+      "updated_text": "Small hiatal hernia is present. A 1\u202fcm circumscribed hypodense lesion in the right hepatic lobe likely represents a cyst. A 3\u202fcm left renal cyst is present. The gallbladder is surgically absent."
+    }
+  ],
+  "impression": "1. Moderate bilateral lower lobe ground\u2011glass opacities, possibly gravity\u2011dependent atelectasis; infectious or inflammatory process cannot be excluded.\n2. Right\u2011sided aortic arch with descending thoracic aorta near the midline.\n3. Mild cardiomegaly.\n4. Mild coronary artery calcifications.\n5. Small hiatal hernia.\n6. 1\u202fcm right hepatic cyst.\n7. 3\u202fcm left renal cyst.\n8. Thoracic spondylosis."
+}

@@ -1,0 +1,21 @@
+{
+  "field_edits": [
+    {
+      "field_name": "BRAIN",
+      "updated_text": "Generalized cerebral atrophy with prominent sulcal spaces, especially in the right parietal lobe. Bilateral periventricular T2 and FLAIR hyperintensity consistent with chronic ischemic changes. Focal gliosis in the bilateral centrum semiovale and hyper frontalis interna. Prominent Virchow\u2011Robin spaces in the bilateral lentiform nuclei. No restricted diffusion to indicate acute infarction. No intracranial mass or hemorrhage. No midline shift or extra\u2011axial fluid collection. No cerebellar tonsillar ectopia. The central arterial and venous flow voids are patent."
+    },
+    {
+      "field_name": "VENTRICLES",
+      "updated_text": "The bilateral lateral ventricles are dilated."
+    },
+    {
+      "field_name": "SINUSES AND MASTOIDS",
+      "updated_text": "Left mastoiditis is noted with minimal signal abnormality in the right mastoid air cells. The paranasal sinuses are clear."
+    },
+    {
+      "field_name": "BONES",
+      "updated_text": "Partial empty sella is noted. The calvarium and skull base demonstrate normal signal intensity."
+    }
+  ],
+  "impression": "1. Generalized cerebral atrophy with prominent sulci, especially in the right parietal lobe.\n2. Bilateral periventricular T2/FLAIR hyperintensity consistent with chronic ischemic changes.\n3. Focal gliosis in the bilateral centrum semiovale and hyper frontalis interna.\n4. Prominent Virchow\u2011Robin spaces in the bilateral lentiform nuclei.\n5. Dilated bilateral lateral ventricles.\n6. Left mastoiditis with minimal signal abnormality in the right mastoid air cells.\n7. Partial empty sella."
+}

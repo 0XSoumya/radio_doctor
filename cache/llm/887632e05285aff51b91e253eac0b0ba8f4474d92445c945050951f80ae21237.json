@@ -1,0 +1,17 @@
+{
+  "field_edits": [
+    {
+      "field_name": "BONES",
+      "updated_text": "No acute fracture or focal osseous lesion. A small well\u2011corticated ossicle posterior to the lateral femoral condyle (fabella) is noted, representing a normal anatomic variant."
+    },
+    {
+      "field_name": "JOINTS",
+      "updated_text": "Joint spaces are maintained without significant degenerative change. No significant knee joint effusion is identified. No dislocation."
+    },
+    {
+      "field_name": "SOFT TISSUES",
+      "updated_text": "Tiny radiopaque focus is demonstrated within the superficial anterior prepatellar soft tissues, superior to the patella, nonspecific and possibly representing a small soft\u2011tissue calcification or tiny foreign body. The remaining soft tissues are unremarkable."
+    }
+  ],
+  "impression": "1. Tiny radiopaque focus in the anterior prepatellar soft tissues, possibly a small calcification or foreign body.\n2. No acute fracture or dislocation.\n3. No significant joint effusion."
+}

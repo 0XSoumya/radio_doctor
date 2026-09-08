@@ -1,0 +1,25 @@
+{
+  "field_edits": [
+    {
+      "field_name": "ACROMIOCLAVICULAR JOINT",
+      "updated_text": "Mild degenerative hypertrophic changes are seen in the acromioclavicular joint with mild STIR hyperintensity suggestive of reactive marrow edema. No significant AC joint separation is seen."
+    },
+    {
+      "field_name": "ROTATOR CUFF TENDONS AND MUSCLES",
+      "updated_text": "There is minimal focal STIR hyperintensity within the distal subscapularis tendon proximal to its insertion, indicating mild tendinopathic/inflammatory change. The supraspinatus, infraspinatus and teres minor tendons are maintained in thickness and signal intensity without tendinopathy or tear. No tendon retraction or muscle atrophy is noted."
+    },
+    {
+      "field_name": "BICEPS ANCHOR COMPLEX",
+      "updated_text": "Trace fluid is seen along the long head of the biceps tendon sheath. The tendon is maintained in position with preserved caliber and signal."
+    },
+    {
+      "field_name": "GLENOHUMERAL JOINT",
+      "updated_text": "There are few small focal subchondral cystic changes within the humeral head, likely degenerative, with focal STIR hyperintensity at the posterosuperior humeral head suggestive of mild reactive marrow edema. Minimal fluid is present between the anterior-inferior glenoid labral region and the glenoid cavity. No significant glenohumeral joint effusion is seen. The articular cartilage is preserved. The labrum is intact."
+    },
+    {
+      "field_name": "BONES",
+      "updated_text": "No acute fracture, dislocation, or aggressive osseous lesion. Normal bone marrow signal aside from mild reactive marrow edema in the acromioclavicular joint and posterosuperior humeral head."
+    }
+  ],
+  "impression": "1. Mild degenerative hypertrophic changes of the acromioclavicular joint with reactive marrow edema.\n2. Minimal distal subscapularis tendinopathic change without definite tear.\n3. Trace fluid along the long head of the biceps tendon sheath.\n4. Few small subchondral cystic changes in the humeral head with mild reactive marrow edema at the posterosuperior humeral head.\n5. Minimal fluid between the anterior-inferior glenoid labral region and the glenoid cavity."
+}

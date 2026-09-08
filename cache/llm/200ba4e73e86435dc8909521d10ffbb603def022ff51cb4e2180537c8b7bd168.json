@@ -1,0 +1,13 @@
+{
+  "field_edits": [
+    {
+      "field_name": "LIVER",
+      "updated_text": "Liver is mildly enlarged, measuring approximately 17 cm in craniocaudal span. Few small simple hepatic cysts are noted. No definite solid focal hepatic lesion is identified. The remaining liver signal is normal."
+    },
+    {
+      "field_name": "KIDNEYS",
+      "updated_text": "Right kidney is ectopic (pelvic in location) and malrotated. Few simple cortical cysts are seen in both kidneys. No definite solid renal mass is described. The left kidney is otherwise normal in size and position."
+    }
+  ],
+  "impression": "Mild hepatomegaly, liver measuring approximately 17 cm.\n\nFew simple hepatic cysts.\n\nEctopic and malrotated right kidney.\n\nFew simple bilateral renal cortical cysts.\n\nNo significant abnormality of the gallbladder, CBD, spleen or pancreas."
+}

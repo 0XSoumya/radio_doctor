@@ -1,0 +1,17 @@
+{
+  "field_edits": [
+    {
+      "field_name": "VERTEBRAE",
+      "updated_text": "Mild lumbar levoconvex curvature. Normal density and alignment. Vertebral body heights are maintained without acute compression deformity or focal destructive osseous lesion. No acute fracture is seen."
+    },
+    {
+      "field_name": "DISC SPACES",
+      "updated_text": "Mild multilevel degenerative disc space narrowing and endplate osteophyte formation, greatest at L4-L5 and L5-S1. The remaining disc spaces are preserved."
+    },
+    {
+      "field_name": "OTHER FINDINGS",
+      "updated_text": "The sacroiliac joints are maintained.\nNo acute osseous abnormality is identified."
+    }
+  ],
+  "impression": "1. Multilevel lumbar spondylosis/degenerative disc disease, greatest at L4-L5 and L5-S1.\n2. Lower lumbar facet arthropathy.\n3. Mild lumbar levoconvex curvature.\n4. No acute osseous abnormality."
+}

@@ -1,0 +1,21 @@
+{
+  "field_edits": [
+    {
+      "field_name": "Extensor compartments",
+      "updated_text": "Extensor carpi ulnaris (ECU) tendon sheath shows circumferential distension with fusiform fluid/synovial thickening, consistent with tenosynovitis. The extensor tendons are normal in course and signal intensity without evidence of tenosynovitis."
+    },
+    {
+      "field_name": "JOINTS",
+      "updated_text": "Mild joint effusion is noted. No subluxation is identified. The radiocarpal and intercarpal articulations are maintained."
+    },
+    {
+      "field_name": "BONES",
+      "updated_text": "Postoperative changes are present involving the distal radius. Patchy STIR hyperintense marrow signal is seen in the triquetrum and trapezium, likely reactive edema/contusion. No acute fracture or focal osseous lesion. The marrow signal is otherwise normal."
+    },
+    {
+      "field_name": "OTHER FINDINGS",
+      "updated_text": "Mild subcutaneous soft-tissue edema is present. Susceptibility/distortion artefacts from postoperative changes limit evaluation of adjacent osseous and soft-tissue structures."
+    }
+  ],
+  "impression": "1. Postoperative changes of the distal radius with susceptibility artefacts limiting evaluation of adjacent structures.\n2. Extensor carpi ulnaris (ECU) tendon sheath tenosynovitis.\n3. Patchy marrow edema-like signal in the triquetrum and trapezium, likely reactive/contusional.\n4. Mild wrist joint effusion.\n5. Mild subcutaneous soft-tissue edema.\n6. Degenerative osteoarthritic changes of the left wrist."
+}

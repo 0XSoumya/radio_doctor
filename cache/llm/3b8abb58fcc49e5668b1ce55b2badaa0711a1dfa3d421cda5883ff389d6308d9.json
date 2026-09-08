@@ -1,0 +1,13 @@
+{
+  "field_edits": [
+    {
+      "field_name": "VERTEBRAE",
+      "updated_text": "Mild dextroconvex scoliosis of the mid thoracic spine. Mild chronic-appearing vertebral body height loss involving the upper to mid thoracic spine. Mild multilevel thoracic spondylosis. Normal density. No acute fracture or subluxation."
+    },
+    {
+      "field_name": "DISC SPACES",
+      "updated_text": "Mild multilevel disc space narrowing with small marginal osteophytes."
+    }
+  ],
+  "impression": "1. Mild dextroconvex scoliosis of the mid thoracic spine.\n2. Mild chronic-appearing vertebral body height loss involving the upper to mid thoracic spine.\n3. Mild multilevel thoracic spondylosis.\n4. Mild multilevel disc space narrowing with small marginal osteophytes.\n5. No acute fracture or subluxation."
+}

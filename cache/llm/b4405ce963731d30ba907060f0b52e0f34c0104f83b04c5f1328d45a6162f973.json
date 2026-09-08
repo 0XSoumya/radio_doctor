@@ -1,0 +1,21 @@
+{
+  "field_edits": [
+    {
+      "field_name": "BONES",
+      "updated_text": "Alignment of the visualized bones is maintained. No definite acute fracture or dislocation identified. No focal aggressive osseous lesion or definite abnormal marrow enhancement."
+    },
+    {
+      "field_name": "MUSCLES",
+      "updated_text": "Mild patchy increased fluid-sensitive signal and enhancement within the intrinsic muscles of the forefoot, compatible with mild muscular strain/edema."
+    },
+    {
+      "field_name": "CARTILAGE",
+      "updated_text": "Mild degenerative changes involving the visualized forefoot joints. The articular cartilage is preserved in thickness and signal."
+    },
+    {
+      "field_name": "OTHER FINDINGS",
+      "updated_text": "Mild diffuse dorsal subcutaneous soft-tissue edema/enhancement of the forefoot."
+    }
+  ],
+  "impression": "1. Mild degenerative changes involving the visualized forefoot joints.\n2. Mild patchy intrinsic muscle edema/strain of the forefoot.\n3. Mild diffuse dorsal subcutaneous soft-tissue edema of the forefoot.\n4. No acute fracture, dislocation, or aggressive osseous lesion.\n5. No significant joint effusion."
+}

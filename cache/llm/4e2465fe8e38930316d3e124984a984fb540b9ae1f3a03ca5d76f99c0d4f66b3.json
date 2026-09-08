@@ -1,0 +1,17 @@
+{
+  "field_edits": [
+    {
+      "field_name": "BONES",
+      "updated_text": "Multiple intramedullary lucent lesions are present within the distal femoral shaft and proximal fibula. Cortical irregularity, remodeling, and periosteal reaction are present along the proximal fibular shaft. No acute fracture is seen."
+    },
+    {
+      "field_name": "JOINTS",
+      "updated_text": "Moderate medial and patellofemoral compartment joint space narrowing with mild lateral compartment joint space narrowing and small marginal osteophytes. Moderate knee joint effusion. No dislocation."
+    },
+    {
+      "field_name": "SOFT TISSUES",
+      "updated_text": "Soft tissue swelling of the leg. Calcifications of the femoral artery are noted. The remaining soft tissues are otherwise unremarkable."
+    }
+  ],
+  "impression": "1. Moderate tricompartmental osteoarthritis of the left knee with medial and patellofemoral compartment joint space narrowing, mild lateral compartment narrowing, and small marginal osteophytes.\n2. Multiple intramedullary lucent lesions in the distal femur and proximal fibula with cortical irregularity and periosteal reaction, concerning for osteomyelitis; multifocal neoplastic lesions are a differential consideration.\n3. Moderate knee joint effusion and soft tissue swelling of the leg.\n4. Femoral arterial atherosclerotic calcifications.\n5. No acute fracture or dislocation."
+}

@@ -1,0 +1,13 @@
+{
+  "field_edits": [
+    {
+      "field_name": "BONES",
+      "updated_text": "No acute fracture. No focal osseous lesion. Alignment is maintained. Subchondral/endplate sclerosis is present."
+    },
+    {
+      "field_name": "JOINTS",
+      "updated_text": "No dislocation. There is mild superolateral joint space narrowing of the left hip with marginal osteophyte formation. The left sacroiliac joint demonstrates degenerative arthropathy with subchondral sclerosis and mild joint space irregularity."
+    }
+  ],
+  "impression": "1. Mild left hip osteoarthritis with superolateral joint space narrowing, subchondral/endplate sclerosis, and marginal osteophyte formation.\n2. Degenerative arthropathy of the left sacroiliac joint with subchondral sclerosis and mild joint space irregularity.\n3. No acute osseous abnormality."
+}

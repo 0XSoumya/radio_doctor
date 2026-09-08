@@ -1,0 +1,41 @@
+{
+  "field_edits": [
+    {
+      "field_name": "Alignment",
+      "updated_text": "Cervical spinal alignment is maintained. No significant spondylolisthesis. Normal cervical lordosis."
+    },
+    {
+      "field_name": "Vertebral Bodies",
+      "updated_text": "Vertebral body heights are maintained. No acute compression fracture or focal suspicious marrow-replacing lesion. Postoperative changes are noted at C5\u2013C6. Normal marrow signal."
+    },
+    {
+      "field_name": "Spinal Cord",
+      "updated_text": "Cervical spinal cord is normal in caliber and signal intensity. No intramedullary T2/STIR hyperintensity, cord edema, or myelomalacia. No cord compression."
+    },
+    {
+      "field_name": "C2-3",
+      "updated_text": "Disc height maintained with adequate hydration. No significant disc bulge or herniation. No significant spinal canal or neural foraminal stenosis."
+    },
+    {
+      "field_name": "C3-4",
+      "updated_text": "Mild disc desiccation with small broad-based disc bulge causing mild ventral thecal sac indentation and mild bilateral neural foraminal narrowing."
+    },
+    {
+      "field_name": "C4-5",
+      "updated_text": "Disc desiccation with broad-based disc bulge/minimal central disc protrusion, mild ventral thecal sac indentation, bilateral neural foraminal narrowing, without significant cord impingement."
+    },
+    {
+      "field_name": "C5-6",
+      "updated_text": "Postoperative changes with residual posterior disc-osteophyte/disc protrusive component causing indentation of the ventral thecal sac and ventral cervical cord with central canal narrowing. No cord signal abnormality or edema."
+    },
+    {
+      "field_name": "C6-7",
+      "updated_text": "Disc height and hydration are relatively maintained. No significant disc bulge, herniation, spinal canal or neural foraminal stenosis."
+    },
+    {
+      "field_name": "C7-T1",
+      "updated_text": "No significant disc bulge, herniation, canal or foraminal stenosis."
+    }
+  ],
+  "impression": "Postoperative changes at C5\u2013C6 with residual posterior disc/osteophyte complex causing indentation of the ventral thecal sac and ventral cervical cord. No associated cord edema or myelomalacia.\n\nC4\u2013C5 disc degeneration with broad-based disc bulge/protrusion and bilateral neural foraminal narrowing, without significant cord impingement.\n\nMild additional multilevel cervical spondylotic/disc degenerative changes.\n\nNo acute osseous abnormality or significant intrinsic cervical cord signal abnormality."
+}

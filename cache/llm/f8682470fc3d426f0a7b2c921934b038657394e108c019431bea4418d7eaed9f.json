@@ -1,0 +1,17 @@
+{
+  "field_edits": [
+    {
+      "field_name": "LUNGS",
+      "updated_text": "Promient brinchivascular makrings are present. Lungs are clear. No focal air-space consolidation."
+    },
+    {
+      "field_name": "MEDIASTINUM/HILA",
+      "updated_text": "Atherscleroic hane aortic arch is present. Cardiomediastinal silhouette is within normal limits. No mediastinal widening or hilar enlargement."
+    },
+    {
+      "field_name": "HEART",
+      "updated_text": "Mild cRDIOMEGLY is noted. Cardiac silhouette is within normal size limits."
+    }
+  ],
+  "impression": "1. Promient brinchivascular makrings are present.\n2. Atherscleroic hane aortic arch is noted.\n3. Mild cRDIOMEGLY."
+}

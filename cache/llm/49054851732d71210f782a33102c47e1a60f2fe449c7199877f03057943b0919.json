@@ -1,0 +1,13 @@
+{
+  "field_edits": [
+    {
+      "field_name": "BLADDER",
+      "updated_text": "Mildly distended urinary bladder with diffuse irregular circumferential mural thickening measuring up to approximately 2.5\u202fmm. No obvious intraluminal mass lesion or calculus is identified. The remaining bladder wall appears smooth."
+    },
+    {
+      "field_name": "PROSTATE",
+      "updated_text": "Mild prostatomegaly with prostate volume approximately 25\u202fmL. No obvious focal suspicious lesion is identified. The prostate gland otherwise demonstrates normal signal intensity and post\u2011contrast enhancement."
+    }
+  ],
+  "impression": "1. Mildly distended urinary bladder with diffuse irregular circumferential mural thickening, likely inflammatory/cystitic.\n2. Mild prostatomegaly, prostate volume approximately 25\u202fmL."
+}

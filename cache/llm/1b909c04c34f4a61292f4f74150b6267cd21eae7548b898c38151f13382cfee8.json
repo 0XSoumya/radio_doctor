@@ -1,0 +1,33 @@
+{
+  "field_edits": [
+    {
+      "field_name": "Alignment",
+      "updated_text": "Loss of the normal cervical lordosis with straightening of the cervical spine. Cervical spinal alignment is maintained."
+    },
+    {
+      "field_name": "Vertebral Bodies",
+      "updated_text": "Vertebral body heights are maintained. No obvious acute compression deformity or focal marrow-replacing lesion is identified. Normal marrow signal."
+    },
+    {
+      "field_name": "C2-3",
+      "updated_text": "Mild posterior disc bulge with no significant spinal canal stenosis and no significant neural foraminal narrowing."
+    },
+    {
+      "field_name": "C3-4",
+      "updated_text": "Mild posterior disc bulge causing mild ventral thecal sac indentation. No significant spinal canal stenosis. No neural foraminal narrowing."
+    },
+    {
+      "field_name": "C4-5",
+      "updated_text": "Mild posterior central disc prolapse causing mild ventral thecal sac indentation. No significant spinal canal stenosis. AP diameter 11 mm. No neural foraminal narrowing."
+    },
+    {
+      "field_name": "C5-6",
+      "updated_text": "Mild diffuse posterior disc bulge causing ventral thecal sac indentation with mild spinal canal narrowing. AP diameter 9 mm. No neural foraminal narrowing."
+    },
+    {
+      "field_name": "C6-7",
+      "updated_text": "Mild posterior central disc prolapse causing ventral thecal sac indentation with mild spinal canal narrowing. AP diameter 8.8 mm. No neural foraminal narrowing."
+    }
+  ],
+  "impression": "1. Loss of the normal cervical lordosis with straightening of the cervical spine.\n2. Multilevel degenerative disc disease with disc desiccation, reduced disc heights, and marginal endplate osteophyte formation.\n3. Multilevel posterior disc-osteophyte complexes at C5\u2013C6 and C6\u2013C7 causing ventral thecal sac indentation.\n4. Mild posterior disc bulge at C2\u2013C3 without significant canal stenosis or foraminal narrowing.\n5. Mild posterior disc bulge at C3\u2013C4 causing mild ventral thecal sac indentation without significant stenosis or foraminal narrowing.\n6. Mild posterior central disc prolapse at C4\u2013C5 causing mild ventral thecal sac indentation, AP diameter 11 mm, without significant stenosis or foraminal narrowing.\n7. Mild diffuse posterior disc bulge at C5\u2013C6 causing ventral thecal sac indentation with mild canal narrowing, AP diameter 9 mm, without foraminal narrowing.\n8. Mild posterior central disc prolapse at C6\u2013C7 causing ventral thecal sac indentation with mild canal narrowing, AP diameter 8.8 mm, without foraminal narrowing."
+}

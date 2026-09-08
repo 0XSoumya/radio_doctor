@@ -1,0 +1,13 @@
+{
+  "field_edits": [
+    {
+      "field_name": "VERTEBRAE",
+      "updated_text": "Thoracic vertebral body heights and alignment are maintained. No acute compression fracture, traumatic malalignment, or focal osseous abnormality is demonstrated."
+    },
+    {
+      "field_name": "DISC SPACES",
+      "updated_text": "Intervertebral disc spaces are preserved."
+    }
+  ],
+  "impression": "No acute compression fracture, traumatic malalignment, or focal osseous abnormality is demonstrated. No acute osseous abnormality of the thoracic spine."
+}

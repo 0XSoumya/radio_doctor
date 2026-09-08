@@ -1,0 +1,17 @@
+{
+  "field_edits": [
+    {
+      "field_name": "VERTEBRAE",
+      "updated_text": "Vertebral body heights and alignment are maintained. No fracture or listhesis."
+    },
+    {
+      "field_name": "DISC SPACES",
+      "updated_text": "Severe disc space narrowing at L5-S1. Moderate disc space narrowing at L4-L5 and from T12-L1 through L2-L3."
+    },
+    {
+      "field_name": "OTHER FINDINGS",
+      "updated_text": "Small multilevel marginal osteophytes are present. Moderate facet joint arthropathy at L5-S1. Atherosclerotic calcification of the abdominal aorta. Mild to moderate osteoarthritis of both hips and sacroiliac joints."
+    }
+  ],
+  "impression": "1. Severe disc space narrowing at L5-S1 with associated facet arthropathy.\n2. Moderate disc space narrowing at L4-L5 and from T12-L1 through L2-L3.\n3. Small multilevel marginal osteophytes.\n4. Atherosclerotic calcification of the abdominal aorta.\n5. Mild to moderate osteoarthritis of both hips and sacroiliac joints.\n6. No acute fracture or listhesis."
+}

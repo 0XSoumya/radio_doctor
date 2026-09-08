@@ -1,0 +1,13 @@
+{
+  "field_edits": [
+    {
+      "field_name": "BONES",
+      "updated_text": "Marginal osteophytes are noted. No acute fracture or focal osseous lesion."
+    },
+    {
+      "field_name": "JOINTS",
+      "updated_text": "Reduction in the medial tibiofemoral and patellofemoral joint spaces is seen. No dislocation. The remaining joint spaces are normal."
+    }
+  ],
+  "impression": "Degenerative changes with marginal osteophytes and reduced medial tibiofemoral and patellofemoral joint spaces."
+}

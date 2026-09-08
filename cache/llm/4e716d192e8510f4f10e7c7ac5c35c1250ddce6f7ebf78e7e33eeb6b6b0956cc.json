@@ -1,0 +1,21 @@
+{
+  "field_edits": [
+    {
+      "field_name": "VERTEBRAE",
+      "updated_text": "Multilevel degenerative spondylotic changes with small marginal osteophyte formation. No acute fracture, subluxation, or aggressive osseous lesion. Vertebral body heights are maintained. Normal marrow signal throughout."
+    },
+    {
+      "field_name": "ALIGNMENT",
+      "updated_text": "Exaggerated thoracic kyphotic curvature. Anatomic alignment of the thoracic spine is preserved."
+    },
+    {
+      "field_name": "DISCS/DEGENERATIVE CHANGES",
+      "updated_text": "Multilevel disc desiccation with maintained disc heights. No significant focal disc bulge, disc extrusion, or posterior disc protrusion. The facet joints are well-maintained. No central canal or neural foraminal stenosis."
+    },
+    {
+      "field_name": "PARASPINAL SOFT TISSUES",
+      "updated_text": "No significant prevertebral or paravertebral soft-tissue abnormality."
+    }
+  ],
+  "impression": "1. Exaggerated thoracic kyphosis.\n2. Multilevel mild thoracic spondylotic degenerative changes with disc desiccation and small marginal osteophytes.\n3. No significant disc protrusion, spinal canal stenosis, or neural foraminal compromise.\n4. No cord compression or abnormal cord signal changes."
+}

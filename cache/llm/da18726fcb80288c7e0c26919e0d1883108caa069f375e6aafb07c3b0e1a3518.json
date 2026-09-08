@@ -1,0 +1,17 @@
+{
+  "field_edits": [
+    {
+      "field_name": "VERTEBRAE",
+      "updated_text": "Mild anterior wedging of the L1 vertebral body with reduction in anterior vertebral body height. Mild diffuse osseous demineralization. Mild degenerative curvature of the lumbar spine. Lumbar vertebral alignment is maintained without significant spondylolisthesis. No acute cortical disruption. No acute fracture or osseous lesion."
+    },
+    {
+      "field_name": "DISC SPACES",
+      "updated_text": "Marked disc-space narrowing at L4\u2013L5 with associated endplate degenerative change and marginal osteophyte formation. Mild-to-moderate disc-space narrowing at the upper and mid lumbar levels. The remaining disc spaces are preserved."
+    },
+    {
+      "field_name": "OTHER FINDINGS",
+      "updated_text": "Visualized sacroiliac joints are maintained."
+    }
+  ],
+  "impression": "1. Marked degenerative disc-space narrowing at L4\u2013L5 with endplate sclerosis and marginal osteophyte formation.\n2. Mild-to-moderate multilevel degenerative disc disease at the upper and mid lumbar levels.\n3. Mild anterior wedge compression deformity of L1 without acute fracture.\n4. Multilevel lower lumbar facet arthropathy, greatest at L5\u2013S1.\n5. Mild diffuse osseous demineralization and mild degenerative curvature of the lumbar spine."
+}

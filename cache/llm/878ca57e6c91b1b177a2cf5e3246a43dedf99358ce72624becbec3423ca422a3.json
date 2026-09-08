@@ -1,0 +1,13 @@
+{
+  "field_edits": [
+    {
+      "field_name": "VERTEBRAE",
+      "updated_text": "Degenerative changes with osteophytes are present. The vertebral body density and alignment are otherwise maintained. No acute fracture is seen."
+    },
+    {
+      "field_name": "DISC SPACES",
+      "updated_text": "There is reduced disc space at L5-S1. The remaining disc spaces are preserved."
+    }
+  ],
+  "impression": "1. Degenerative changes with osteophytes and reduced L5-S1 disc space.\n2. No acute abnormality."
+}

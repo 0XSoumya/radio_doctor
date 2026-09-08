@@ -1,0 +1,13 @@
+{
+  "field_edits": [
+    {
+      "field_name": "BONES",
+      "updated_text": "Diffuse osseous demineralization. No acute fracture or dislocation. No focal osseous lesion."
+    },
+    {
+      "field_name": "JOINTS",
+      "updated_text": "Carpal alignment is maintained. Mild degenerative joint space narrowing and marginal spurring are present at the thumb carpometacarpal and triscaphe articulations. Mild radiocarpal degenerative change. No dislocation."
+    }
+  ],
+  "impression": "1. Diffuse osseous demineralization.\n2. Mild degenerative joint space narrowing and marginal spurring at the thumb carpometacarpal and triscaphe articulations.\n3. Mild radiocarpal degenerative change.\n4. No acute fracture or dislocation."
+}

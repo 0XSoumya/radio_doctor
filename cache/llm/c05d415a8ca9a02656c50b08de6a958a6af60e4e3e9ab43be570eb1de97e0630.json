@@ -1,0 +1,17 @@
+{
+  "field_edits": [
+    {
+      "field_name": "GALLBLADDER AND BILIARY TREE",
+      "updated_text": "Surgically absent gallbladder with surgical clips seen in the gallbladder fossa. No biliary ductal dilatation."
+    },
+    {
+      "field_name": "SPLEN",
+      "updated_text": "A small splenic calcification is noted. The remainder of the spleen is normal."
+    },
+    {
+      "field_name": "STOMACH AND BOWEL",
+      "updated_text": "Appendix is surgically absent with surgical suture at the cecum. Colonic diverticulosis is present. There is focal moderate pericolonic fat stranding adjacent to the sigmoid colon consistent with acute diverticulitis. No adjacent fluid collection or abscess is identified. No bowel obstruction."
+    }
+  ],
+  "impression": "1. Surgically absent gallbladder with surgical clips in the gallbladder fossa.\n2. Small splenic calcification.\n3. Surgically absent appendix with cecal suture.\n4. Acute sigmoid diverticulitis with focal pericolonic fat stranding in the setting of colonic diverticulosis."
+}

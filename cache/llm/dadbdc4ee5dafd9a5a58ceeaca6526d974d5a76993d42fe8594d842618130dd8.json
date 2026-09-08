@@ -1,0 +1,17 @@
+{
+  "field_edits": [
+    {
+      "field_name": "VERTEBRAE",
+      "updated_text": "Diffuse osseous demineralization. Vertebral body heights are maintained without acute compression fracture or traumatic malalignment."
+    },
+    {
+      "field_name": "DISC SPACES",
+      "updated_text": "Multilevel thoracic disc space narrowing with endplate osteophyte formation, greatest in the mid to lower thoracic spine."
+    },
+    {
+      "field_name": "OTHER FINDINGS",
+      "updated_text": "Aortic atherosclerotic calcification is present."
+    }
+  ],
+  "impression": "1. Diffuse osseous demineralization of the thoracic spine.\n2. Multilevel thoracic disc space narrowing with endplate osteophyte formation, greatest in the mid to lower thoracic spine.\n3. Aortic atherosclerotic calcification."
+}

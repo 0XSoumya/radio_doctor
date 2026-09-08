@@ -1,0 +1,29 @@
+{
+  "field_edits": [
+    {
+      "field_name": "PERONEAL",
+      "updated_text": "Increased intrasubstance signal with mild surrounding tendon-sheath fluid consistent with tendinosis and tenosynovitis. No discrete tear is identified. The peroneus longus and brevis tendons are intact."
+    },
+    {
+      "field_name": "ACHILLES",
+      "updated_text": "Mildly thickened and hyperintense consistent with tendinosis. Tendon continuity is maintained."
+    },
+    {
+      "field_name": "POSTERIOR TIBIAL",
+      "updated_text": "Fluid within the tendon sheath consistent with tenosynovitis. The tibialis posterior tendon is intact."
+    },
+    {
+      "field_name": "FLEXOR",
+      "updated_text": "Fluid within the tendon sheaths of the flexor digitorum longus and flexor hallucis longus consistent with tenosynovitis. The flexor hallucis longus and flexor digitorum longus tendons are intact without tear."
+    },
+    {
+      "field_name": "FLUID",
+      "updated_text": "Mild tibiotalar joint effusion. No subtalar joint effusion."
+    },
+    {
+      "field_name": "BONES",
+      "updated_text": "Subtle subchondral marrow oedema in the talus. No definite fracture line, articular-surface collapse or osteochondral defect. Normal marrow signal otherwise."
+    }
+  ],
+  "impression": "1. Peroneus longus and brevis tendinosis with associated tenosynovitis.\n2. Achilles tendinosis without discrete tear.\n3. Tenosynovitis of the medial flexor tendons (tibialis posterior, flexor digitorum longus, flexor hallucis longus).\n4. Subtle subchondral marrow edema of the talus without fracture or osteochondral defect.\n5. Mild tibiotalar joint effusion."
+}

@@ -1,0 +1,45 @@
+{
+  "field_edits": [
+    {
+      "field_name": "Scapholunate",
+      "updated_text": "Scapholunate ligament shows abnormal morphology compatible with chronic insufficiency/tear, with widening of the scapholunate interval."
+    },
+    {
+      "field_name": "Lunotriquetral",
+      "updated_text": "Degenerative changes are present involving the lunotriquetral articulation."
+    },
+    {
+      "field_name": "Flexor compartments",
+      "updated_text": "Flexor tendons are grossly intact. Mild fluid/synovial prominence surrounds the flexor tendons at the carpal tunnel."
+    },
+    {
+      "field_name": "Extensor compartments",
+      "updated_text": "Visualized extensor tendons are grossly intact without definite high-grade tear."
+    },
+    {
+      "field_name": "Median",
+      "updated_text": "Median nerve demonstrates mild increased signal and flattening within the carpal tunnel, compatible with median neuropathy/carpal tunnel syndrome. No discrete compressive mass identified."
+    },
+    {
+      "field_name": "BONES",
+      "updated_text": "No acute fracture or focal aggressive osseous lesion. Advanced multifocal degenerative changes involving the carpal bones with subchondral sclerosis, cystic change, and marrow edema-like signal."
+    },
+    {
+      "field_name": "JOINTS",
+      "updated_text": "Marked joint space narrowing with small associated joint effusions and synovial hypertrophic/degenerative changes. No subluxation. The radiocarpal and intercarpal articulations are maintained."
+    },
+    {
+      "field_name": "CARTILAGE",
+      "updated_text": "Extensive cartilage loss is present."
+    },
+    {
+      "field_name": "TRIANGULAR FIBROCARTILAGE",
+      "updated_text": "Degenerative thinning and irregularity of the triangular fibrocartilage complex. No definite acute full-thickness tear identified."
+    },
+    {
+      "field_name": "OTHER FINDINGS",
+      "updated_text": "Mild diffuse soft-tissue edema about the wrist."
+    }
+  ],
+  "impression": "1. Advanced multifocal degenerative osteoarthritis of the left wrist with marked joint space narrowing, subchondral sclerosis, cystic change, osteophyte formation, and extensive cartilage loss.\n2. Chronic scapholunate ligament insufficiency/tear with widening of the scapholunate interval.\n3. Degenerative changes of the lunotriquetral articulation.\n4. Degenerative thinning and irregularity of the triangular fibrocartilage complex without acute full-thickness tear.\n5. Mild median neuropathy/carpal tunnel syndrome evidenced by flattening and increased signal of the median nerve.\n6. Small joint effusions with synovial hypertrophy.\n7. Mild diffuse soft-tissue edema about the wrist."
+}

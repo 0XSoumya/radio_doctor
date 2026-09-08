@@ -1,0 +1,13 @@
+{
+  "field_edits": [
+    {
+      "field_name": "BONES",
+      "updated_text": "There is a small enthesophyte at the Achilles tendon insertion. A well-corticated os peroneum is incidentally noted. No significant plantar calcaneal spur is present. No acute fracture or focal osseous lesion."
+    },
+    {
+      "field_name": "SOFT TISSUES",
+      "updated_text": "Mild soft tissue swelling. The remaining soft tissues are unremarkable."
+    }
+  ],
+  "impression": "1. Enthesophyte at the Achilles tendon insertion.\n2. Incidental os peroneum.\n3. Mild soft tissue swelling.\n4. No acute fracture or dislocation."
+}

@@ -1,0 +1,13 @@
+{
+  "field_edits": [
+    {
+      "field_name": "BONES",
+      "updated_text": "No acute fracture. No focal erosive or destructive osseous abnormality. Mild diffuse osseous demineralization. Alignment is maintained."
+    },
+    {
+      "field_name": "JOINTS",
+      "updated_text": "Moderate multifocal interphalangeal joint space narrowing and marginal osteophyte formation, greatest at the distal interphalangeal joints. Moderate degenerative changes of the first carpometacarpal and triscaphe joints. No dislocation."
+    }
+  ],
+  "impression": "1. No acute osseous abnormality of the left hand.\n2. Moderate multifocal interphalangeal joint space narrowing with marginal osteophyte formation, greatest at the distal interphalangeal joints, and moderate degenerative changes of the first carpometacarpal and triscaphe joints (multifocal osteoarthritis).\n3. Mild diffuse osseous demineralization."
+}

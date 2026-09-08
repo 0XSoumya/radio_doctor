@@ -1,0 +1,37 @@
+{
+  "field_edits": [
+    {
+      "field_name": "VERTEBRAE",
+      "updated_text": "A benign-appearing vertebral hemangioma is noted within the L2 vertebral body. Focal marrow/soft-tissue edema-like signal involving the anterior adjacent endplate at L2-L3 and the spinous process of L4 is present. No acute fracture."
+    },
+    {
+      "field_name": "ALIGNMENT",
+      "updated_text": "Straightening of the normal lumbar lordosis is noted. No spondylolisthesis."
+    },
+    {
+      "field_name": "DISCS/DEGENERATIVE CHANGES",
+      "updated_text": "Multilevel degenerative spondylotic changes are seen with marginal osteophyte formation and multilevel intervertebral disc desiccation and bulging."
+    },
+    {
+      "field_name": "L1-L2",
+      "updated_text": "Mild diffuse disc bulge is noted. No significant central canal stenosis or neural foraminal compromise."
+    },
+    {
+      "field_name": "L2-L3",
+      "updated_text": "Diffuse disc bulge with bilateral neural foraminal narrowing. Mild degenerative endplate changes. Focal marrow/soft-tissue edema-like signal involving the anterior adjacent endplate."
+    },
+    {
+      "field_name": "L3-L4",
+      "updated_text": "Diffuse disc bulge with bilateral foraminal extension causing bilateral neural foraminal narrowing and crowding/impingement of the exiting nerve roots."
+    },
+    {
+      "field_name": "L4-L5",
+      "updated_text": "Diffuse disc bulge with bilateral neural foraminal narrowing and mild central canal stenosis (AP diameter ~9.6 mm). Impingement of bilateral exiting nerve roots."
+    },
+    {
+      "field_name": "L5-S1",
+      "updated_text": "Diffuse disc bulge with bilateral foraminal extension causing bilateral neural foraminal narrowing and impingement of the exiting nerve roots. Central canal AP diameter ~12 mm without significant focal compression of the cauda equina."
+    }
+  ],
+  "impression": "1. Straightening of lumbar lordosis.\n2. Multilevel degenerative spondylotic changes with marginal osteophytes and disc desiccation/bulging.\n3. Vertebral hemangioma in L2.\n4. L1-L2 mild diffuse disc bulge without significant canal or foraminal stenosis.\n5. L2-L3 diffuse disc bulge with bilateral foraminal narrowing, mild degenerative endplate changes, and focal edema-like signal in the anterior adjacent endplate.\n6. L3-L4 bilateral neural foraminal narrowing with impingement of bilateral exiting nerve roots.\n7. L4-L5 disc bulge with bilateral foraminal narrowing, mild central canal stenosis (AP ~9.6 mm), and impingement of bilateral exiting nerve roots.\n8. L5-S1 disc bulge with bilateral foraminal narrowing, impingement of exiting nerve roots, and central canal AP diameter ~12 mm without focal cauda equina compression.\n9. Focal marrow/soft-tissue edema-like signal involving the spinous process of L4."
+}

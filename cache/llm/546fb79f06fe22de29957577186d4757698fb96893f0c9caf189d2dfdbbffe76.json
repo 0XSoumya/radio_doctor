@@ -1,0 +1,17 @@
+{
+  "field_edits": [
+    {
+      "field_name": "VERTEBRAE",
+      "updated_text": "Straightened lumbar lordosis is seen, which may be positional or related to muscle spasm. Subtle levoconvexity of the lumbar spine is present. Small marginal osteophytes are present in the upper lumbar spine. No acute fracture or listhesis is identified."
+    },
+    {
+      "field_name": "DISC SPACES",
+      "updated_text": "Mild intervertebral disc space narrowing is seen at T12-L1, L1-L2 and L5-S1, with moderate narrowing at L2-L3. The remaining disc spaces are preserved."
+    },
+    {
+      "field_name": "SOFT TISSUES",
+      "updated_text": "Moderate atherosclerotic calcification of the abdominal aorta is present. Severe osteoarthritic changes of the left hip with avascular necrosis are noted (see dedicated left hip report)."
+    }
+  ],
+  "impression": "1. Straightened lumbar lordosis, possibly positional or due to muscle spasm.\n2. Subtle levoconvex lumbar scoliosis.\n3. Mild disc space narrowing at T12-L1, L1-L2, and L5-S1; moderate narrowing at L2-L3.\n4. Small marginal osteophytes in the upper lumbar spine.\n5. Mild L5-S1 facet joint arthrosis.\n6. Mild bilateral sacroiliac joint degenerative changes.\n7. Severe left hip osteoarthritic changes with avascular necrosis (see dedicated report).\n8. Moderate atherosclerotic calcification of the abdominal aorta.\n9. No acute fracture or listhesis."
+}

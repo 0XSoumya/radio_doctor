@@ -1,0 +1,17 @@
+{
+  "field_edits": [
+    {
+      "field_name": "BONES",
+      "updated_text": "Mild diffuse osseous demineralization is present. No acute fracture or focal lesion is identified."
+    },
+    {
+      "field_name": "JOINTS",
+      "updated_text": "Mild degenerative changes of the acromioclavicular joint are seen. Glenohumeral joint space is relatively maintained. No dislocation is seen. The remaining joint spaces and articular margins are preserved."
+    },
+    {
+      "field_name": "SOFT TISSUES",
+      "updated_text": "No focal soft tissue abnormality or radiopaque foreign body is identified. The soft tissues are unremarkable."
+    }
+  ],
+  "impression": "1. No acute osseous abnormality of the left shoulder.\n2. Mild diffuse osseous demineralization.\n3. Mild acromioclavicular osteoarthritis."
+}

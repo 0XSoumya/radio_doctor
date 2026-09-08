@@ -1,0 +1,33 @@
+{
+  "field_edits": [
+    {
+      "field_name": "VERTEBRAE",
+      "updated_text": "Vertebral hemangiomas are seen within the L1 and L5 vertebral bodies. Vertebral body heights are maintained. No acute compression fracture or other focal osseous lesion. The remaining vertebral bodies have normal marrow signal."
+    },
+    {
+      "field_name": "DISCS/DEGENERATIVE CHANGES",
+      "updated_text": "Multilevel degenerative spondylotic changes with intervertebral disc desiccation and mild degenerative endplate changes are present. Multilevel ligamentum flavum hypertrophy is also noted. The remaining disc heights are preserved."
+    },
+    {
+      "field_name": "L1-L2",
+      "updated_text": "Diffuse disc bulge/prolapse is present without significant central canal stenosis or neural foraminal compromise."
+    },
+    {
+      "field_name": "L2-L3",
+      "updated_text": "Mild diffuse disc bulge with associated degenerative changes. No significant central canal or neural foraminal stenosis."
+    },
+    {
+      "field_name": "L3-L4",
+      "updated_text": "Mild diffuse disc bulge with facet and ligamentum flavum hypertrophic changes. No significant canal or foraminal stenosis."
+    },
+    {
+      "field_name": "L4-L5",
+      "updated_text": "Diffuse disc bulge causing bilateral neural foraminal narrowing. No significant exiting nerve root compression or definite nerve root impingement."
+    },
+    {
+      "field_name": "L5-S1",
+      "updated_text": "Diffuse disc bulge/prolapse with bilateral lateral recess and foraminal narrowing and impingement of the exiting nerve roots. No significant high-grade central canal stenosis."
+    }
+  ],
+  "impression": "1. Multilevel degenerative spondylotic changes with disc desiccation, mild endplate changes, and multilevel ligamentum flavum hypertrophy.\n2. Vertebral hemangiomas at L1 and L5.\n3. L1-L2 diffuse disc bulge/prolapse without significant canal or foraminal compromise.\n4. L2-L3 mild diffuse disc bulge with degenerative changes, no significant stenosis.\n5. L3-L4 mild diffuse disc bulge with facet and ligamentum flavum hypertrophy, no significant stenosis.\n6. L4-L5 diffuse disc bulge causing bilateral neural foraminal narrowing, without definite nerve root compression.\n7. L5-S1 diffuse disc bulge/prolapse with bilateral lateral recess and foraminal narrowing and impingement of exiting nerve roots, no high-grade central canal stenosis."
+}

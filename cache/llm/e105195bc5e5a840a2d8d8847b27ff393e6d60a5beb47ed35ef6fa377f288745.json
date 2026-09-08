@@ -1,0 +1,21 @@
+{
+  "field_edits": [
+    {
+      "field_name": "GALLBLADDER AND BILE DUCTS",
+      "updated_text": "Gallbladder is not visualized, consistent with postoperative status (cholecystectomy). Common bile duct is normal in calibre with no evidence of intraluminal filling defect or obstructive dilatation. No choledocholithiasis. Intrahepatic biliary radicles are not dilated."
+    },
+    {
+      "field_name": "LIVER",
+      "updated_text": "Liver is mildly enlarged, measuring approximately 16 cm in craniocaudal span. No focal hepatic lesion is identified."
+    },
+    {
+      "field_name": "SPLEEN",
+      "updated_text": "Spleen is mildly enlarged, measuring approximately 12.2 cm. No focal splenic lesion."
+    },
+    {
+      "field_name": "PANCREAS",
+      "updated_text": "Pancreas is normal in size and signal intensity. Main pancreatic duct is not dilated. No focal pancreatic lesion is seen."
+    }
+  ],
+  "impression": "1. Post-cholecystectomy status with absent gallbladder.\n2. Mild hepatomegaly (liver ~16 cm).\n3. Mild splenomegaly (spleen ~12.2 cm)."
+}

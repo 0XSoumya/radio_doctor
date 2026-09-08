@@ -1,0 +1,17 @@
+{
+  "field_edits": [
+    {
+      "field_name": "BONES",
+      "updated_text": "Mild degenerative osteoarthritic changes are seen, predominantly involving the medial tibiofemoral compartment, with marginal osteophyte formation, mild subchondral sclerosis of the medial tibial plateau, and mild spiking of the tibial spines. No acute fracture is identified. No focal destructive osseous lesion is seen."
+    },
+    {
+      "field_name": "JOINTS",
+      "updated_text": "Mild joint-space narrowing is present in the medial tibiofemoral compartment. No dislocation is identified. No significant suprapatellar joint effusion is seen."
+    },
+    {
+      "field_name": "SOFT TISSUES",
+      "updated_text": "Periarticular soft tissues are grossly unremarkable."
+    }
+  ],
+  "impression": "Mild degenerative osteoarthritic changes of the knee, predominantly involving the medial tibiofemoral compartment with marginal osteophytes, mild joint-space narrowing, subchondral sclerosis, and tibial spine spiking."
+}

@@ -1,0 +1,37 @@
+{
+  "field_edits": [
+    {
+      "field_name": "Osseous Structures",
+      "updated_text": "No focal acute osseous abnormality or marrow edema. No acute fracture, dislocation, or marrow-replacing lesion."
+    },
+    {
+      "field_name": "Joint",
+      "updated_text": "Minimal knee joint effusion. Knee joint alignment is maintained."
+    },
+    {
+      "field_name": "Medial meniscus",
+      "updated_text": "Minimal extrusion of the medial meniscus beyond the tibial margin. The meniscus otherwise appears intact."
+    },
+    {
+      "field_name": "Lateral meniscus",
+      "updated_text": "Minimal extrusion of the lateral meniscus beyond the tibial margin. The meniscus otherwise appears intact."
+    },
+    {
+      "field_name": "Anterior cruciate ligament",
+      "updated_text": "Diffuse bulky mucoid/intrasubstance degeneration with sprain of the ACL, fibers remain continuous. The ACL appears intact."
+    },
+    {
+      "field_name": "Posterior cruciate ligament",
+      "updated_text": "Mildly bulky heterogeneous signal consistent with PCL sprain/degenerative change, fibers remain continuous. The PCL appears intact."
+    },
+    {
+      "field_name": "Extensor Mechanism",
+      "updated_text": "Near full-thickness tear of the distal quadriceps tendon just proximal to its patellar insertion at the superior pole of the patella with surrounding soft\u2011tissue edema. Patellar tendon shows focal increased STIR signal at its patellar insertion consistent with insertional sprain and mild adjacent edema. Quadriceps and patellar tendons otherwise maintain continuity."
+    },
+    {
+      "field_name": "Soft Tissues",
+      "updated_text": "Soft\u2011tissue edema/injury anteriorly around the distal quadriceps tendon and superior aspect of the patella. No mass or fluid collection."
+    }
+  ],
+  "impression": "1. Near full-thickness tear of the distal quadriceps tendon just proximal to its patellar insertion with surrounding soft\u2011tissue edema.\n2. Insertional sprain of the patellar tendon with mild adjacent soft\u2011tissue edema.\n3. Diffuse mucoid/intrasubstance degeneration with sprain of the ACL, fibers remain continuous.\n4. Mild bulky heterogeneous PCL sprain/degenerative change with maintained fiber continuity.\n5. Minimal extrusion of both medial and lateral menisci without definite tear.\n6. Minimal knee joint effusion."
+}

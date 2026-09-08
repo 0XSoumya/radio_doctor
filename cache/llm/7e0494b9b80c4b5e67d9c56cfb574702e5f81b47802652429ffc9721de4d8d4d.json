@@ -1,0 +1,13 @@
+{
+  "field_edits": [
+    {
+      "field_name": "BONES",
+      "updated_text": "No acute fracture or focal osseous lesion. No focal destructive osseous lesion."
+    },
+    {
+      "field_name": "JOINTS",
+      "updated_text": "Severe tricompartmental degenerative osteoarthritic changes are noted, with marked medial compartment predominant joint-space narrowing, prominent marginal osteophyte formation and associated subchondral sclerosis. Degenerative hypertrophic changes are also seen involving the lateral and patellofemoral compartments, with prominent tibial spine and patellar osteophytes. Subchondral cystic/sclerotic changes are noted along the opposing articular surfaces. Few well-defined ossific densities are seen within the joint space, compatible with intra-articular loose bodies. One loose body is seen in the suprapatellar region. Mild joint effusion may be present. No dislocation."
+    }
+  ],
+  "impression": "1. Severe tricompartmental osteoarthritis, predominantly medial compartment, with marked joint-space narrowing, prominent osteophytes and subchondral sclerosis.\n2. Intra-articular ossific loose bodies, including one in the suprapatellar region.\n3. Mild joint effusion.\n4. No acute fracture or dislocation.\n5. No focal destructive osseous lesion."
+}

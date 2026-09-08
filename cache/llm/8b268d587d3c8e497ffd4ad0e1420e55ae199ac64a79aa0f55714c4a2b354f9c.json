@@ -1,0 +1,17 @@
+{
+  "field_edits": [
+    {
+      "field_name": "VERTEBRAE",
+      "updated_text": "Altered marrow signal intensity involving T7, T8, and T9 vertebral bodies, hyperintense on T1-, T2-weighted and STIR images, favoring benign vertebral hemangiomatous changes, predominantly T8. No acute fracture, subluxation, or aggressive osseous lesion. Vertebral body heights are maintained."
+    },
+    {
+      "field_name": "DISCS/DEGENERATIVE CHANGES",
+      "updated_text": "Multilevel mild degenerative spondylotic changes with marginal osteophyte formation, disc desiccation and diffuse disc bulges causing indentation of the ventral thecal sac. No significant focal disc protrusion or extrusion. No significant central canal stenosis or neural foraminal compromise. The facet joints are well-maintained. No central canal or neural foraminal stenosis."
+    },
+    {
+      "field_name": "PARASPINAL SOFT TISSUES",
+      "updated_text": "No significant paravertebral or epidural soft\u2011tissue component is evident."
+    }
+  ],
+  "impression": "1. Multilevel mild degenerative spondylotic changes of the thoracic spine with marginal osteophyte formation, disc desiccation and diffuse disc bulges causing ventral thecal sac indentation.\n2. Altered marrow signal of T7\u2011T9 vertebral bodies consistent with benign hemangiomatous changes, predominant involvement of T8, with mild reactive endplate edema.\n3. No significant central canal stenosis, neural foraminal compromise, or thoracic cord abnormality.\n4. No significant paravertebral or epidural soft\u2011tissue abnormality."
+}

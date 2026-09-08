@@ -1,0 +1,21 @@
+{
+  "field_edits": [
+    {
+      "field_name": "Osseous Structures",
+      "updated_text": "Postoperative tunnel-related changes involving the lateral femoral condyle and proximal tibia. No acute fracture, dislocation, or marrow-replacing lesion."
+    },
+    {
+      "field_name": "Medial meniscus",
+      "updated_text": "Complex full-thickness tear of the posterior horn of the medial meniscus extending to both the superior and inferior articular surfaces, with associated edema/altered signal involving the posterior horn and body."
+    },
+    {
+      "field_name": "Lateral meniscus",
+      "updated_text": "Heterogeneous altered intrameniscal signal with mild bulky appearance of the anterior horn; posterior horn and body are otherwise maintained."
+    },
+    {
+      "field_name": "Anterior cruciate ligament",
+      "updated_text": "ACL is postoperative following reconstruction; graft morphology and continuity should be correlated on dedicated sequences."
+    }
+  ],
+  "impression": "1. Complex full-thickness tear of the posterior horn of the medial meniscus extending to both superior and inferior articular surfaces with associated marrow/soft\u2011tissue edema.\n2. Heterogeneous altered signal and mild bulky appearance of the anterior horn of the lateral meniscus, suspicious for degeneration/intrasubstance injury.\n3. Postsurgical tunnel\u2011related changes of the lateral femoral condyle and proximal tibia related to prior ACL reconstruction; ACL graft appears postoperative, assess integrity on dedicated sequences.\n4. No acute osseous abnormality."
+}

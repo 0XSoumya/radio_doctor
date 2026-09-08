@@ -1,0 +1,33 @@
+{
+  "field_edits": [
+    {
+      "field_name": "Vertebral Bodies",
+      "updated_text": "Multilevel degenerative spondylotic changes with disc space reduction and osteophyte/disc complex formation from C3 to C7. Vertebral body heights are preserved. Normal marrow signal."
+    },
+    {
+      "field_name": "Spinal Cord",
+      "updated_text": "Mild cord signal hyperintensity/edema adjacent to the C3-C4 posterior disc-osteophyte complex. Cord caliber is maintained. No intrinsic cord compression beyond indentation."
+    },
+    {
+      "field_name": "C3-4",
+      "updated_text": "Posterior disc-osteophyte complex indenting the ventral thecal sac and ventral aspect of the spinal cord. AP spinal canal diameter measures approximately 7.4 mm, indicating significant canal stenosis."
+    },
+    {
+      "field_name": "C4-5",
+      "updated_text": "Reduced disc space with posterior disc herniation/disc-osteophyte complex causing ventral thecal sac indentation and right neural foraminal narrowing with compression of the exiting right nerve root."
+    },
+    {
+      "field_name": "C5-6",
+      "updated_text": "Marked disc space reduction with posterior disc protrusion/disc-osteophyte complex causing ventral thecal sac indentation and bilateral neural foraminal narrowing with compression of the exiting bilateral nerve roots. AP spinal canal diameter measures approximately 7.7 mm, indicating significant canal stenosis."
+    },
+    {
+      "field_name": "C6-7",
+      "updated_text": "Reduced/obliterated disc space with associated degenerative changes; evaluation limited by metallic artifacts."
+    },
+    {
+      "field_name": "Paravertebral Soft Tissues",
+      "updated_text": "Prevertebral soft tissues are unremarkable."
+    }
+  ],
+  "impression": "1. Multilevel cervical spondylosis with significant degenerative disc disease from C3 to C7, including disc space reduction and osteophyte/disc complex formation.\n2. C3-C4 posterior disc-osteophyte complex causing significant canal stenosis (AP diameter ~7.4 mm) with ventral cord indentation and mild adjacent cord edema/signal alteration.\n3. C4-C5 disc herniation/disc-osteophyte complex causing ventral thecal sac indentation and right neural foraminal narrowing with compression of the exiting right nerve root.\n4. C5-C6 posterior disc protrusion/disc-osteophyte complex causing significant canal stenosis (AP diameter ~7.7 mm) and bilateral neural foraminal narrowing with compression of the exiting nerve roots.\n5. C6-C7 reduced/obliterated disc space with degenerative changes; evaluation limited by metallic artifact."
+}

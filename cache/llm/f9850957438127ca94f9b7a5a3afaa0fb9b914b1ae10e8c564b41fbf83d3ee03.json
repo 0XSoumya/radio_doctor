@@ -1,0 +1,17 @@
+{
+  "field_edits": [
+    {
+      "field_name": "FLUID",
+      "updated_text": "Small posterior tibiotalar and posterior subtalar joint effusions."
+    },
+    {
+      "field_name": "FLEXOR",
+      "updated_text": "The flexor hallucis longus tendon shows minimal surrounding fluid compatible with mild tenosynovitis. The flexor digitorum longus tendon is intact without tenosynovitis."
+    },
+    {
+      "field_name": "PLANTAR FASCIA",
+      "updated_text": "Mild thickening and increased signal involve the central bundle at its calcaneal origin, compatible with mild plantar fasciitis. No fascial tear."
+    }
+  ],
+  "impression": "1. Small posterior tibiotalar and posterior subtalar joint effusions.\n2. Mild flexor hallucis longus tenosynovitis.\n3. Mild plantar fasciitis involving the central bundle at the calcaneal origin.\n4. No acute osseous abnormality."
+}

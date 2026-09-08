@@ -1,0 +1,17 @@
+{
+  "field_edits": [
+    {
+      "field_name": "BONES",
+      "updated_text": "Subtle cortical irregularity and lucent fracture line involving the distal radial metaphysis, compatible with an acute nondisplaced/minimally displaced distal radius fracture. No significant angulation. Mild diffuse osseous demineralization. Osseous alignment is maintained."
+    },
+    {
+      "field_name": "JOINTS",
+      "updated_text": "Mild multifocal degenerative changes of the radiocarpal, intercarpal and first carpometacarpal joints are present. No dislocation. Carpal alignment is maintained."
+    },
+    {
+      "field_name": "SOFT TISSUES",
+      "updated_text": "Mild surrounding soft tissue swelling is noted. No radiopaque foreign body."
+    }
+  ],
+  "impression": "1. Acute nondisplaced/minimally displaced distal radius fracture with subtle cortical irregularity and lucent fracture line.\n2. No significant angulation or displacement.\n3. Mild diffuse osseous demineralization.\n4. Mild multifocal degenerative changes (osteoarthritis) of the radiocarpal, intercarpal and first carpometacarpal joints.\n5. Mild surrounding soft tissue swelling.\n6. No dislocation."
+}

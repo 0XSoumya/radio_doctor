@@ -1,0 +1,17 @@
+{
+  "field_edits": [
+    {
+      "field_name": "BRAIN",
+      "updated_text": "Mild diffuse cerebral volume loss with prominence of the cortical sulci and ventricular system, consistent with mild age\u2011related cerebral atrophy. No restricted diffusion to indicate acute infarction. No intracranial mass or hemorrhage. No midline shift or extra\u2011axial fluid collection. No cerebellar tonsillar ectopia. The deep gray nuclei and white matter show no significant focal abnormal signal intensity. The brainstem and cerebellum appear unremarkable. The central arterial and venous flow voids are patent."
+    },
+    {
+      "field_name": "VENTRICLES",
+      "updated_text": "Mild prominence of the ventricles consistent with cerebral volume loss. No hydrocephalus."
+    },
+    {
+      "field_name": "SINUSES AND MASTOIDS",
+      "updated_text": "Rightward deviation of the nasal septum with a small bony spur indenting the right inferior turbinate. The paranasal sinuses show no significant mucosal disease. Mastoid air cells are clear."
+    }
+  ],
+  "impression": "1. Mild diffuse cerebral volume loss consistent with age\u2011related cerebral atrophy.\n2. Mild ventricular prominence secondary to cerebral volume loss, without hydrocephalus.\n3. Rightward deviation of the nasal septum with a small bony spur indenting the right inferior turbinate."
+}

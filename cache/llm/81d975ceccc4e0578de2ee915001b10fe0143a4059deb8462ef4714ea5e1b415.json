@@ -1,0 +1,13 @@
+{
+  "field_edits": [
+    {
+      "field_name": "LINE_1",
+      "updated_text": "There is straightening of the cervical spine. The spinal alignment is maintained without evidence of spondylolisthesis."
+    },
+    {
+      "field_name": "LINE_6",
+      "updated_text": "No prevertebral soft tissue abnormalities. The paravertebral soft tissues are normal."
+    }
+  ],
+  "impression": "1. Straightening of the cervical spine.\n2. Anterior cervical fusion with disc prosthesis at C5-6; hardware intact without loosening or complication.\n3. No acute fracture or dislocation.\n4. No prevertebral soft tissue abnormality; airway and visualized lung apices are clear."
+}

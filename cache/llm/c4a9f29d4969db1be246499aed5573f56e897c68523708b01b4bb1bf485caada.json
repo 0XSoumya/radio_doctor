@@ -1,0 +1,25 @@
+{
+  "field_edits": [
+    {
+      "field_name": "LUNGS/AIRWAYS",
+      "updated_text": "Stable bilateral subpleural reticular and fibrotic opacities, greater in the lower lobes. Stable bilateral lower lobe bronchiectatic changes. No focal airspace consolidation. No suspicious pulmonary nodule or mass. The central airways are patent."
+    },
+    {
+      "field_name": "CARDIOVASCULAR",
+      "updated_text": "The heart is within normal limits in size. No pericardial effusion. The thoracic aorta is normal in caliber."
+    },
+    {
+      "field_name": "MEDIASTINAL/HILAR LYMPH NODES",
+      "updated_text": "Stable few prominent mediastinal lymph nodes measuring up to approximately 1.0 cm in short-axis diameter. No axillary lymphadenopathy."
+    },
+    {
+      "field_name": "CHEST WALL/MUSCULOSKELETAL",
+      "updated_text": "Cervical and thoracic spondylosis. No acute or destructive osseous abnormality."
+    },
+    {
+      "field_name": "OTHER FINDINGS",
+      "updated_text": "Stable small hiatal hernia. Stable left renal cyst measuring approximately 4.0 cm."
+    }
+  ],
+  "impression": "1. Stable bilateral subpleural reticular and fibrotic opacities, greater in the lower lobes, consistent with chronic fibrotic interstitial lung disease.\n2. Stable bilateral lower lobe bronchiectasis.\n3. Stable few prominent mediastinal lymph nodes up to 1.0 cm in short-axis diameter.\n4. Stable small hiatal hernia.\n5. Stable 4.0 cm left renal cyst.\n6. Cervical and thoracic spondylosis."
+}

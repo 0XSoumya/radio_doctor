@@ -1,0 +1,17 @@
+{
+  "field_edits": [
+    {
+      "field_name": "LINE_1",
+      "updated_text": "There is straightening of the normal cervical lordosis. The spinal alignment is maintained without evidence of spondylolisthesis."
+    },
+    {
+      "field_name": "LINE_2",
+      "updated_text": "Vertebral body heights are maintained. Mild disc space narrowing is present at C6-C7 with mild multilevel degenerative endplate changes and small anterior osteophytes."
+    },
+    {
+      "field_name": "LINE_6",
+      "updated_text": "No prevertebral soft tissue swelling is demonstrated."
+    }
+  ],
+  "impression": "1. Straightening of the normal cervical lordosis.\n2. Mild multilevel cervical spondylosis, greatest at C6-C7.\n3. No acute osseous abnormality."
+}

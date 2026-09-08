@@ -1,0 +1,17 @@
+{
+  "field_edits": [
+    {
+      "field_name": "VERTEBRAE",
+      "updated_text": "There are degenerative changes with marginal osteophytes. There is grade I anterolisthesis of L5 over S1 and grade I anterolisthesis of L4 over L5. There is grade I retrolisthesis of L2 over L3. There is loss of normal alignment and fusion of L1 and L2. No acute fracture or osseous lesion is seen."
+    },
+    {
+      "field_name": "DISC SPACES",
+      "updated_text": "All lumbar disc spaces demonstrate reduced height."
+    },
+    {
+      "field_name": "OTHER FINDINGS",
+      "updated_text": "Atherosclerotic changes of the abdominal aorta are noted. Degenerative changes are present in the bilateral sacroiliac joints and bilateral hips."
+    }
+  ],
+  "impression": "1. Grade I anterolisthesis of L5 on S1 and L4 on L5 with reduced disc space.\n2. Grade I retrolisthesis of L2 on L3.\n3. Diffuse reduction of lumbar disc space height.\n4. Degenerative changes with marginal osteophytes, loss of alignment and fusion of L1\u2013L2.\n5. Atherosclerotic changes of the abdominal aorta.\n6. Degenerative changes of bilateral sacroiliac joints and bilateral hips."
+}

@@ -1,0 +1,17 @@
+{
+  "field_edits": [
+    {
+      "field_name": "LUNGS",
+      "updated_text": "Bilateral perihilar and bibasilar interstitial and airspace opacities are present, unchanged. No focal air-space consolidation."
+    },
+    {
+      "field_name": "MEDIASTINUM/HILA",
+      "updated_text": "Mild central pulmonary vascular prominence is unchanged. No mediastinal widening or hilar enlargement."
+    },
+    {
+      "field_name": "HEART",
+      "updated_text": "Mild cardiomegaly is stable."
+    }
+  ],
+  "impression": "1. Bilateral perihilar and bibasilar interstitial and airspace opacities, stable.\n2. Mild central pulmonary vascular prominence, stable.\n3. Mild cardiomegaly, stable."
+}

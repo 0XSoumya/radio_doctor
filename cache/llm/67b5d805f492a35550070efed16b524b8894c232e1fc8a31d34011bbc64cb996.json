@@ -1,0 +1,17 @@
+{
+  "field_edits": [
+    {
+      "field_name": "BONES",
+      "updated_text": "Subacute to chronic fracture deformity of the proximal fibula. No acute fracture or focal osseous lesion."
+    },
+    {
+      "field_name": "JOINTS",
+      "updated_text": "Moderate medial and lateral compartment joint space narrowing with small marginal osteophytes and tibial plateau subchondral sclerosis. Moderate patellofemoral joint space narrowing with subchondral sclerosis. Small suprapatellar joint effusion. No dislocation."
+    },
+    {
+      "field_name": "SOFT TISSUES",
+      "updated_text": "Atherosclerotic calcifications of the visualized arteries are present. Several small linear radiopaque densities project over the soft tissues of the leg, possibly surgical clips or retained foreign bodies. The soft tissues are otherwise unremarkable."
+    }
+  ],
+  "impression": "1. Subacute to chronic fracture deformity of the proximal fibula.\n2. Moderate tricompartmental osteoarthritis with joint space narrowing, marginal osteophytes, and subchondral sclerosis.\n3. Small suprapatellar joint effusion.\n4. Atherosclerotic vascular calcifications.\n5. Small linear radiopaque densities within the leg soft tissues, possibly surgical clips or retained foreign bodies.\n6. No acute fracture or dislocation."
+}

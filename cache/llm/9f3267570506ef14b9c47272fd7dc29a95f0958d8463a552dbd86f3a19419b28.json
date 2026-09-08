@@ -1,0 +1,13 @@
+{
+  "field_edits": [
+    {
+      "field_name": "VERTEBRAE",
+      "updated_text": "There is diffuse osseous demineralization. Mild dextroconvex thoracolumbar curvature is present. Vertebral body heights are maintained without acute compression fracture."
+    },
+    {
+      "field_name": "DISC SPACES",
+      "updated_text": "There is multilevel degenerative disc space narrowing and endplate osteophyte formation, greatest at L4-L5."
+    }
+  ],
+  "impression": "1. Diffuse osseous demineralization of the lumbar spine.\n2. Mild dextroconvex thoracolumbar curvature.\n3. Multilevel degenerative disc space narrowing with endplate osteophyte formation, greatest at L4-L5, and lower lumbar facet arthropathy.\n4. No acute fracture or dislocation."
+}
